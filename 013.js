@@ -1,6 +1,6 @@
 'use strict';
 
-const num = 55;
+const num = 49;
 
 switch (num) {
     case 49:
