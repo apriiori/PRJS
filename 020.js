@@ -10,6 +10,8 @@ const options = {
     }
 }; 
 
+console.log(Object.keys(options).length);
+
 let counter = 0;
 for (let key in options) {
     if (typeof(options[key]) === 'object') {
